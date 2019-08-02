@@ -11,11 +11,6 @@
 	<groupId>com.pablo.tulian</groupId>
 	<artifactId>pruebasRest-DBAHR-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
-	<!-- Add for convert to WAR -->
-	<packaging>war</packaging>
-	<!-- Add for convert to WAR -->
-	
 	<name>pruebasRest-DBAHR-1</name>
 	<description>Pruebas de servicios Rest con DB ORACLE HR</description>
 
@@ -32,14 +27,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		
-		<!-- Add for convert to WAR -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-tomcat</artifactId>
-			<scope>provided</scope>
-		</dependency>
-		<!-- Add for convert to WAR -->
 
 		<dependency>
 			<groupId>org.postgresql</groupId>

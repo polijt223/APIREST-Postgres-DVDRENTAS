@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.pablo.tulian.PruebasRestDbahr1ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.609 s - in com.pablo.tulian.PruebasRestDbahr1ApplicationTests
